@@ -1,5 +1,9 @@
 # app_marvel
 
+## Project deployed
+
+https://samuel3-marvel-app.netlify.app/
+
 ## Project setup
 ```
 yarn install
